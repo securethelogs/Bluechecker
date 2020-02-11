@@ -1,4 +1,4 @@
-﻿function bluechecker { # Remove this for script
+
 
 Write-Output ""
 Write-Output "__________.__                _________ .__                   __                 "
@@ -397,4 +397,3 @@ Disable-WindowsOptionalFeature -Online -FeatureName MicrosoftWindowsPowerShellV2
 
 #> # ------------ Remove this line to disable v2 ---------------
 
-} # Remove this for script
