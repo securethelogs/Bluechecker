@@ -8,7 +8,7 @@ Default location: C:\Temp\report.html
 
 Simply download the script or run remotely using:
 
-powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Bluechecker/master/Bluechecker.ps1’)”
+powershell –nop –c “iex(New-Object Net.WebClient).DownloadString(‘https://raw.githubusercontent.com/securethelogs/Bluechecker/master/BlueChecker.ps1’)”
 
 Once ran, BlueChecker will check for:
 
