@@ -1,9 +1,10 @@
 # Bluechecker
 
-![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2020/02/bluechecker.jpg)
+![Securethelogs.com](https://ctrla1tdel.files.wordpress.com/2020/04/51ymo6nqmt.gif)
 
 
-BlueChecker will help you audit PowerShell and check for any suspicious activity.
+BlueChecker will help you audit PowerShell and check for any suspicious activity. At the end it will then generate a report.
+Default location: C:\Temp\report.html
 
 Simply download the script or run remotely using:
 
@@ -15,6 +16,7 @@ Once ran, BlueChecker will check for:
 - Evidence of downgrading
 - Registry and GP set for PowerShell auditing
 - Malicious scripts using keywords
+- Firewall spesific to Powershell
 - Event logs for Module logging and script block logging.
 
 
