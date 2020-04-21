@@ -1,6 +1,6 @@
 # Bluechecker
 
-![Bluechecker](https://ctrla1tdel.files.wordpress.com/2020/04/bluech.gif)
+![Bluechecker](https://ctrla1tdel.files.wordpress.com/2020/04/blu.gif)
 
 
 BlueChecker will help you audit PowerShell and check for any suspicious activity. At the end it will then generate a report.
