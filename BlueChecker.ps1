@@ -80,7 +80,7 @@ if ($modkey -eq "1") {$EML = (Get-ItemProperty -Path HKLM:\SOFTWARE\Policies\Mic
 if ($modkey -eq "2") {$EML = (Get-ItemProperty -Path HKLM:\SOFTWARE\Wow6432Node\Policies\Microsoft\Windows\PowerShell\ModuleLogging).EnableModuleLogging}
 
 
-if ($modkey -eq $false) {$moduleresults = "<p> Module logging doesn't seem to be enabled </p>"} else{
+if ($modkey -eq $false) {$moduleresults = "<p>  Module Logging: EnableModuleLogging : Disabled </p>"} else{
 
 $moduleresults = "<p> Module Logging: EnableModuleLogging : Enabled </p>"
 
